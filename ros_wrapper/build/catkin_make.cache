@@ -1,0 +1,2 @@
+larvio
+-DCATKIN_DEVEL_PREFIX=/home/touchair/vio_ws/src/LARVIO/ros_wrapper/devel -DCMAKE_INSTALL_PREFIX=/home/touchair/vio_ws/src/LARVIO/ros_wrapper/install -G Unix Makefiles

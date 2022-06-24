@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/touchair/vio_ws/src/LARVIO/ros_wrapper/devel/setup.sh
